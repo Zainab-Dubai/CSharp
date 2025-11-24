@@ -55,7 +55,7 @@ class Program
         Employee emp1 = new Employee { Id = 101, FirstName = "Alice", LastName = "Johnson" };
 
         // 🏗️ Create second Employee object and assign values
-        Employee emp2 = new Employee { Id = 101, FirstName = "Bob", LastName = "Smith" };
+        Employee emp2 = new Employee { Id = 101, FirstName = "Zainab", LastName = "Dubai" };
 
         // 🔍 Compare the two employees using overloaded "=="
         bool areEqual = emp1 == emp2;
